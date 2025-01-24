@@ -1,0 +1,310 @@
+{
+    "products": [
+      {
+        "title": "toys Car",
+        "subtitle": "Speedster Edition",
+        "old_price": 500,
+        "new_price": 300,
+        "level_range": "0-3",
+      "image_url": "/products/bag.jpg",
+      "productType":"bags",
+      "color": "red"
+      },
+     
+      {
+        "title": "Building Blocks",
+        "subtitle": "Creative Kit",
+        "old_price": 1000,
+        "new_price": 750,
+        "level_range": "4-8",
+        "image_url": "/products/bigbottle.jpg",
+        "productType":"bottles",
+      "color": "green"
+      },
+      {
+        "title": "Puzzle Set",
+        "subtitle": "Brain Teaser",
+        "old_price": 300,
+        "new_price": 200,
+        "level_range": "8-12",
+        "image_url": "/products/biggerbottle.jpg",
+        "productType":"bottles",
+      "color": "blue"
+      },
+      {
+        "title": "Dollhouse",
+        "subtitle": "Luxury Edition",
+        "old_price": 1200,
+        "new_price": 900,
+        "level_range": "8-12",
+        "image_url": "/products/box2.jpg",
+        "productType":"bags",
+      "color": "red"
+      },
+    
+    
+      {
+        "title": "Robot toys",
+        "subtitle": "Interactive AI",
+        "old_price": 2000,
+        "new_price": 1800,
+        "level_range": "8-12",
+        "image_url": "/products/box2.jpg",
+        "productType":"bags",
+      "color": "blue"
+      },
+      {
+        "title": "Art Kit",
+        "subtitle": "Painting & Drawing",
+        "old_price": 700,
+        "new_price": 500,
+        "level_range": "4-7",
+        "image_url":"/products/cardimage.jpg",
+        "productType":"toys",
+        "color": "blue"
+      },
+      {
+        "title": "Musical Keyboard",
+        "subtitle": "Mini Piano",
+        "old_price": 1500,
+        "new_price": 1300,
+        "level_range": "8-12",
+        "image_url": "/products/chocolate.jpg",
+        "productType":"toys",
+        "color": "red"
+      },
+      {
+        "title": "Blue Truck",
+        "subtitle": "Mini Truck",
+        "old_price": 700,
+        "new_price": 600,
+        "level_range": "8-12",
+        "image_url": "/products/bluetruck.webp",
+        "productType":"toys",
+        "color": "blue"
+      },
+      {
+        "title": "Musical Keyboard",
+        "subtitle": "Mini Piano",
+        "old_price": 1500,
+        "new_price": 1300,
+        "level_range": "8-12",
+        "image_url": "/products/bottle3.jpg",
+        "productType":"toys",
+        "color": "red"
+      },
+      {
+        "title": "Green Truck",
+        "subtitle": "Mini Truck",
+        "old_price": 500,
+        "new_price": 400,
+        "level_range": "8-3",
+        "image_url": "/products/redtruck.jpg",
+        "productType":"toys",
+        "color": "blue"
+      },
+      {
+        "title": "Musical Keyboard",
+        "subtitle": "Mini Piano",
+        "old_price": 1500,
+        "new_price": 1300,
+        "level_range": "8-3",
+      "image_url": "/products/redtruck.jpg",
+        "productType":"toys",
+        "color": "red"
+      },
+      {
+        "title": "Red Truck",
+        "subtitle": "Mini Truck",
+        "old_price": 900,
+        "new_price": 700,
+        "level_range": "8-12",
+        "image_url": "/products/redtruck.jpg",
+        "productType":"bags",
+          "color": "red"
+      
+      },
+      {
+        "title": "Red Truck",
+        "subtitle": "Mini Truck",
+        "old_price": 1200,
+        "new_price": 1000,
+        "level_range": "8-12",
+        "image_url": "/products/redtruck.jpg",
+        "productType":"toys",
+        "color": "red"
+      },
+      {
+        "title": "Red Bottles",
+        "subtitle": "Mini Bottles",
+        "old_price": 1200,
+        "new_price": 1000,
+        "level_range": "8-12",
+        "image_url": "/products/redbottles.webp",
+        "productType":"bottles",
+        "color": "red"
+      },
+      {
+        "title": "Blue Bottles",
+        "subtitle": "Mini Bottles",
+        "old_price": 1200,
+        "new_price": 1000,
+        "level_range": "8-12",
+        "image_url": "/products/bluebottles.jpg",
+        "productType":"bottles",
+        "color": "blue"
+      },
+      {
+        "title": "Blue Bottles",
+        "subtitle": "Mini Bottles",
+        "old_price": 1200,
+        "new_price": 1000,
+        "level_range": "8-12",
+        "image_url": "/products/bluebottles.jpg",
+        "productType":"bottles",
+        "color": "blue"
+      }
+      
+    ] ,
+    "stationary":[
+      {
+       "title": "Blue Bottles",
+        "subtitle": "Mini Bottles",
+        "old_price": 1200,
+        "new_price": 1000,
+        "level_range": "8-12",
+        "image_url": "/products/bluebottles.jpg",
+        "productType":"bottles",
+        "color": "blue" 
+      },
+      {
+        "title": "Blue Bottles",
+        "subtitle": "Mini Bottles",
+        "old_price": 1200,
+        "new_price": 1000,
+        "level_range": "8-12",
+        "image_url": "/products/bluebottles.jpg",
+        "productType":"bottles",
+        "color": "blue"
+      },
+      {
+        "title": "Blue Bottles",
+        "subtitle": "Mini Bottles",
+        "old_price": 1200,
+        "new_price": 1000,
+        "level_range": "8-12",
+        "image_url": "/products/bluebottles.jpg",
+        "productType":"bottles",
+        "color": "blue"
+      },
+      {
+        "title": "Blue Bottles",
+        "subtitle": "Mini Bottles",
+        "old_price": 1200,
+        "new_price": 1000,
+        "level_range": "8-12",
+        "image_url": "/products/bluebottles.jpg",
+        "productType":"bottles",
+        "color": "blue"
+      },
+      {
+        "title": "Blue Bottles",
+        "subtitle": "Mini Bottles",
+        "old_price": 1200,
+        "new_price": 1000,
+        "level_range": "8-12",
+        "image_url": "/products/bluebottles.jpg",
+        "productType":"bottles",
+        "color": "blue"
+      }
+    ],
+    "hairaccessories":[
+      {
+       "title": "Blue Bottles",
+        "subtitle": "Mini Bottles",
+        "old_price": 1200,
+        "new_price": 1000,
+        "level_range": "8-12",
+        "image_url": "/products/bluebottles.jpg",
+        "productType":"bottles",
+        "color": "blue" 
+      },
+      {
+        "title": "Blue Bottles",
+        "subtitle": "Mini Bottles",
+        "old_price": 1200,
+        "new_price": 1000,
+        "level_range": "8-12",
+        "image_url": "/products/bluebottles.jpg",
+        "productType":"bottles",
+        "color": "blue"
+      },
+      {
+        "title": "Blue Bottles",
+        "subtitle": "Mini Bottles",
+        "old_price": 1200,
+        "new_price": 1000,
+        "level_range": "8-12",
+        "image_url": "/products/bluebottles.jpg",
+        "productType":"bottles",
+        "color": "blue"
+      },
+      {
+        "title": "Blue Bottles",
+        "subtitle": "Mini Bottles",
+        "old_price": 1200,
+        "new_price": 1000,
+        "level_range": "8-12",
+        "image_url": "/products/bluebottles.jpg",
+        "productType":"bottles",
+        "color": "blue"
+      },
+      {
+        "title": "Blue Bottles",
+        "subtitle": "Mini Bottles",
+        "old_price": 1200,
+        "new_price": 1000,
+        "level_range": "8-12",
+        "image_url": "/products/bluebottles.jpg",
+        "productType":"bottles",
+        "color": "blue"
+      }
+    ],
+    "Whislist":[
+      {
+        
+          "title": "Blue Bottles",
+          "subtitle": "Mini Bottles",
+          "old_price": 1200,
+          "new_price": 1000,
+          "level_range": "8-12",
+          "image_url": "/products/bluebottles.jpg",
+          "productType":"bottles",
+          "color": "blue"
+        
+      },
+      {
+        "title": "Toys Car",
+        "subtitle": "Speedster Edition",
+        "old_price": 500,
+        "new_price": 300,
+        "level_range": "4-7",
+        "image_url": "/toys_product/car_2.png",
+        "category": "Car",
+         "price":"200"
+        
+      },
+      {
+        "title": "Building Blocks",
+        "subtitle": "Creative Kit",
+        "old_price": 1000,
+        "new_price": 750,
+        "level_range": "4-7",
+        "image_url": "/toys_product/game_1.png",
+       "category": "game",
+         "price":"700"
+
+      }
+    ]  
+
+  }

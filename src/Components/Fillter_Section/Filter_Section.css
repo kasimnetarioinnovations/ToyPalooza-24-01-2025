@@ -1,0 +1,124 @@
+.filter-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* gap: 38px; */
+    padding: 10px 0px;
+    /* background-color: #555; */
+  
+  }
+
+  .filtertype{
+    display: flex;
+    justify-content: space-around;
+    /* position: relative; */
+  
+  }
+  
+
+  /* .filtertype::after{
+    content: "";
+    width: 8px;
+    height: 8px;
+    position: absolute;
+    z-index: 1;
+    right: 25px;
+    top: 50%;
+    border-right: 2px solid grey;
+    border-bottom: 2px solid grey;
+    margin-top: -6px;
+    transform: rotate(45deg);
+    pointer-events: none;
+
+  }
+  
+   select{
+    appearance: none;
+    
+  } */
+  
+  .filter-bar select {
+    padding: 8px 21px;
+    border: 1px solid #ccc;
+    border-radius: 23px;
+    font-size: 14px;
+    outline: none;
+    background-color: #f3f3f3;
+    cursor: pointer;
+    margin: 7px 10px;
+    font-size: 13px;
+  }
+  
+  .filter-bar .sort-by {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  
+  .filter-bar .sort-by label {
+    font-size: 14px;
+    color: #555;
+  }
+  @media (min-width:320px) and (max-width:768px){
+    .filter-bar select{
+      margin: 7px 2px;
+    }
+    .cardhome {
+      width: 300px !important;
+  }
+  .filter-none{
+    display: none;
+  }
+  }
+  @media (max-width:1440px){
+    .gaptype{
+      gap: 2rem !important
+
+    }
+    /* .right-review-content-card1 {
+      bottom: 254px;
+  } */
+  /* .play-line1 {
+    left: -274px;
+    bottom: -222px;
+} */
+/* .right-review-content-card3 {
+  bottom: 211px;
+} */
+/* .right-review-content-card4 {
+  bottom: -101px;
+} */
+  }
+
+  @media (max-width: 798px) {
+    .gaptype {
+        gap: 1rem !important;
+    }
+}
+
+@media (max-width: 425px){
+  .filtertype{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+}
+@media (max-width: 375px){
+  .filter-bar{
+    justify-content: center;
+  }
+  .categories-card {
+    margin: 60px 6px;
+}
+
+}
+@media (min-width:769px) and (max-width:1024px){
+  .gaptype {
+    gap: 2rem !important;
+    overflow: auto;
+    justify-content: start !important;
+    display: grid !important
+;
+    grid-template-columns: repeat(6, 1fr);
+}
+}
